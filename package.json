@@ -24,7 +24,7 @@
     "workbox-strategies": "^6.5.3",
     "workbox-streams": "^6.5.3"
   },
-  {
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -33,7 +33,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  }
+  
   "eslintConfig": {
     "extends": [
       "react-app",
